@@ -1,0 +1,30 @@
+
+[workspace]
+default-members = [
+  "."
+]
+members = [
+  "app",
+  "cms",
+  "dev",
+  "net",
+  "ssg",
+  "sys",
+  "web",
+]
+exclude = [
+  "code"
+]
+
+[package]
+name = "cmasfo"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "cmf"
+path = "src/lib/lib.rs"
+
+[[bin]]
+name = "cmf"
+path = "src/bin/main.rs"

@@ -1,0 +1,5 @@
+{
+  "explorer.sortOrder": "filesFirst",
+  "explorer.sortOrderLexicographicOptions": "unicode",
+  "cmake.buildDirectory": "${workspaceFolder}/.build"
+}

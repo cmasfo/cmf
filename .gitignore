@@ -1,0 +1,15 @@
+
+# repos
+/pub
+
+# obsidian
+**/.obsidian/appearance.json
+**/.obsidian/workspace*.json
+**/.trash
+
+# cargo/rust
+**/Cargo.lock
+**/target
+
+# cmake
+**/.build

@@ -1,1 +1,4 @@
-# cmf
+
+# README
+
+* [Index](docs/_.md)

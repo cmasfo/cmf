@@ -1,0 +1,24 @@
+{
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "foldIndent": false,
+  "foldHeading": false,
+  "showIndentGuide": false,
+  "spellcheck": false,
+  "useTab": false,
+  "tabSize": 2,
+  "autoPairMarkdown": false,
+  "showUnsupportedFiles": false,
+  "showLineNumber": true,
+  "attachmentFolderPath": "_media",
+  "userIgnoreFilters": null,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
