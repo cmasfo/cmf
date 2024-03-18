@@ -7,7 +7,20 @@ CMASFO는 Constructive Mastery Forum의 약자다.
 
 ---
 
+## 외부 링크
+
+* email
+  * cmasfo@gmail.com
+* github-main
+  * https://github.com/cmasfo
+* github-organization
+  * https://github.com/cmasfo-dev
+* toss-donation (south korea)
+  * https://toss.me/cmasfodev
+
 ## 하위 문서
 
-* [[docs/cmasfo/cmf/ko_kr|cmf]]
-* [[docs/cmasfo/pub/ko_kr|pub]]
+* cmf
+  * [[docs/cmasfo/cmf/ko_kr|cmf 리포지토리]]
+* pub
+  * [[docs/cmasfo/pub/ko_kr|pub 리포지토리]]

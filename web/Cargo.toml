@@ -1,0 +1,13 @@
+
+[package]
+name = "cmasfo-web"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "web"
+path = "src/lib/lib.rs"
+
+[[bin]]
+name = "web"
+path = "src/bin/main.rs"

@@ -15,6 +15,8 @@
 * J
 * K
 * L
+  * language
+    * [[docs/language/ko_kr|언어]]
 * M
 * N
 * O
@@ -24,6 +26,8 @@
 * S
 * T
 * U
+  * unicode
+    * [[docs/unicode/ko_kr|유니코드]]
 * V
 * W
 * X

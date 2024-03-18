@@ -1,0 +1,13 @@
+
+[package]
+name = "cmasfo-ssg"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "ssg"
+path = "src/lib/lib.rs"
+
+[[bin]]
+name = "ssg"
+path = "src/bin/main.rs"

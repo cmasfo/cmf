@@ -1,0 +1,13 @@
+
+[package]
+name = "cmasfo-net"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "net"
+path = "src/lib/lib.rs"
+
+[[bin]]
+name = "net"
+path = "src/bin/main.rs"

@@ -1,0 +1,13 @@
+
+[package]
+name = "cmasfo-app"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "app"
+path = "src/lib/lib.rs"
+
+[[bin]]
+name = "app"
+path = "src/bin/main.rs"
