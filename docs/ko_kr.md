@@ -4,8 +4,6 @@
 * A
 * B
 * C
-  * cmasfo
-    * [[docs/cmasfo/ko_kr|CMASFO]]
 * D
 * E
 * F
@@ -15,19 +13,17 @@
 * J
 * K
 * L
-  * language
-    * [[docs/language/ko_kr|언어]]
 * M
 * N
 * O
 * P
 * Q
 * R
+  * rs
+    * [[docs/rs/ko_kr|rs]]
 * S
 * T
 * U
-  * unicode
-    * [[docs/unicode/ko_kr|유니코드]]
 * V
 * W
 * X
