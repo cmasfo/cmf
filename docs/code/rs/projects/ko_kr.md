@@ -1,11 +1,11 @@
 
-# Index: ko_kr
+# Index: Rust Projects
 
+* _
+  * [[docs/code/rs/projects/_/ko_kr|rs]]
 * A
 * B
 * C
-  * code
-    * [[docs/code/ko_kr|Index: Code]]
 * D
 * E
 * F

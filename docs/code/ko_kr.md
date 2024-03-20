@@ -1,11 +1,9 @@
 
-# Index: ko_kr
+# Index: Code
 
 * A
 * B
 * C
-  * code
-    * [[docs/code/ko_kr|Index: Code]]
 * D
 * E
 * F
@@ -21,6 +19,8 @@
 * P
 * Q
 * R
+  * rs
+    * [[docs/code/rs/ko_kr|Index: Rust]]
 * S
 * T
 * U
