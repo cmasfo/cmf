@@ -56,8 +56,7 @@ impl GameManager {
             break 'guess_loop parse;
           }
         } else {
-          printfl!("Failed to parse.");
-          get_line();
+          println!("Failed to parse.");
         };
       };
 
