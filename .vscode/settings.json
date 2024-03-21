@@ -1,5 +1,6 @@
 {
   "explorer.sortOrder": "filesFirst",
   "explorer.sortOrderLexicographicOptions": "unicode",
-  "cmake.buildDirectory": "${workspaceFolder}/.build"
+  "cmake.buildDirectory": "${workspaceFolder}/.build",
+  "C_Cpp.errorSquiggles": "disabled"
 }
