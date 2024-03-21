@@ -13,3 +13,6 @@
 
 # cmake
 **/.build
+
+# site build
+**/.cache

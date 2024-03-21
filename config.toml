@@ -1,0 +1,22 @@
+
+[build]
+src = "docs"
+dst = "_build"
+
+[publish]
+src = "_build"
+dst = "pub"
+
+[asset]
+src = "_asset"
+dst = "asset"
+
+[media]
+src = "_media"
+dst = "media"
+
+[content]
+index_file = "_.md"
+alt_rules = [
+  "_", "cur"
+]
