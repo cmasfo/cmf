@@ -4,6 +4,10 @@
 * A
 * B
 * C
+  * c
+    * [[docs/code/c/ko_kr|Index: C]]
+  * cc
+    * [[docs/code/cc/ko_kr|Index: C++]]
 * D
 * E
 * F

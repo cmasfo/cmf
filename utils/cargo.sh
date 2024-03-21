@@ -1,6 +1,2 @@
 
-if [ $# -eq 0 ]; then
-  cargo run
-else
-  cargo run --manifest-path=$1/Cargo.toml
-fi
+cargo run --manifest-path=code/rs/$1/Cargo.toml

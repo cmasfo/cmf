@@ -5,6 +5,8 @@
   * [[docs/code/rs/_/ko_kr|Rust]]
 * A
 * B
+  * books
+    * [[docs/code/rs/books/ko_kr|Index: Rust Books]]
 * C
 * D
 * E
