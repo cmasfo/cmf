@@ -1,8 +1,6 @@
 
 # Index: ko_kr
 
-* _
-  * [[docs/_/ko_kr|Index: CMASFO]]
 * A
 * B
   * blog
@@ -68,10 +66,6 @@
     * [[docs/util/ko_kr|Index: Util]]
 * V
 * W
-  * wiki
-    * [[docs/wiki/ko_kr|Index: Wiki]]
-  * word
-    * [[docs/word/ko_kr|Index: Word]]
 * X
 * Y
 * Z
