@@ -1,4 +1,4 @@
 
 if [ $# -ne 0 ]; then
-  cargo run --manifest-path=code/rs/$1/Cargo.toml
+  cargo run --manifest-path=code/$1/Cargo.toml
 fi
