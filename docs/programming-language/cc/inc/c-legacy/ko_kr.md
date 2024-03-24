@@ -1,0 +1,8 @@
+
+# C++ - C Legacy Headers
+
+* [[docs/programming-language/c/inc/ko_kr|C Headers]]
+
+C에 존재하던 `<stdio.h>`, `<stdint.h>`와 같은 헤더들은 C++에서 레거시 헤더로 통용된다. 그리고 C++에서 레거시 헤더들은 `<cstdio>`, `<cstdint>`와 같이 앞에는 `c`를 붙이고 뒤의 `.h`는 떼서 사용하는 것이 권장된다.
+
+C++에서 `<stdio.h>`라고 쓴다고 해서 C에 있던 `<stdio.h>`와 완전히 동일한 헤더를 사용하는 것은 아니다. C++의 관점에서 봤을 때 원점이 되는 것은 `<cstdio>`와 같은 새 이름이고, `<stdio.h>`와 같은 이름은 그저 호환성을 위해 지원해주는 것일 뿐이다.

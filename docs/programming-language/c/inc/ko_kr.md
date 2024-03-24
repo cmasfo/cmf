@@ -1,5 +1,5 @@
 
-# Natural Language
+# C Headers
 
 * A
 * B
@@ -11,8 +11,6 @@
 * H
 * I
 * J
-  * ja
-    * [[docs/natural-language/ja/ko_kr|Japanese Language]]
 * K
 * L
 * M
@@ -22,6 +20,8 @@
 * Q
 * R
 * S
+  * stdio.h
+    * [[docs/programming-language/c/inc/stdio.h/ko_kr|<stdio.h>]]
 * T
 * U
 * V

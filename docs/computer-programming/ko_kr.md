@@ -1,5 +1,5 @@
 
-# Natural Language
+# Computer Programming
 
 * A
 * B
@@ -11,8 +11,6 @@
 * H
 * I
 * J
-  * ja
-    * [[docs/natural-language/ja/ko_kr|Japanese Language]]
 * K
 * L
 * M

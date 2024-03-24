@@ -1,5 +1,5 @@
 
-# Programming Language (Index)
+# Programming Language
 
 * A
 * B

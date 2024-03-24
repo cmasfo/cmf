@@ -4,8 +4,8 @@
 * A
 * B
 * C
-  * code
-    * [[docs/code/ko_kr|Code (Index)]]
+  * code-projects
+    * [[docs/code-projects/ko_kr|Code Projects]]
 * D
 * E
 * F
@@ -18,11 +18,11 @@
 * M
 * N
   * natural-language
-    * [[docs/natural-language/ko_kr|Natural Language (Index)]]
+    * [[docs/natural-language/ko_kr|Natural Language]]
 * O
 * P
   * programming-language
-    * [[docs/programming-language/ko_kr|Programming Language (Index)]]
+    * [[docs/programming-language/ko_kr|Programming Language]]
 * Q
 * R
 * S

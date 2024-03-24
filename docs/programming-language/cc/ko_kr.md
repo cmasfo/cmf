@@ -21,7 +21,8 @@
 * Q
 * R
 * S
-  * [[docs/programming-language/cc/std/ko_kr|std]]
+  * std
+    * [[docs/programming-language/cc/std/ko_kr|C++ - std]]
 * T
 * U
 * V
