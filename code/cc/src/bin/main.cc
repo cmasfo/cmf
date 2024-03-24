@@ -1,7 +1,7 @@
 
-#include "iostream.h"
+#include "prelude.h"
 
-import iostream;
+import prelude;
 
 int main() {
   COUT("Hello " << "C++");
