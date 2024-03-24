@@ -1,0 +1,18 @@
+
+[package]
+name = "rs-guessing-game"
+version = "0.1.0"
+edition = "2021"
+default-run = "rs-guessing-game"
+
+[lib]
+name = "lib"
+path = "src/lib/lib.rs"
+
+[[bin]]
+name = "rs-guessing-game"
+path = "src/bin/main.rs"
+
+[dependencies]
+num-traits = "*"
+rand = "*"
