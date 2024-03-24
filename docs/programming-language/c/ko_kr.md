@@ -11,6 +11,7 @@
 * H
 * I
   * inc
+    * [[docs/programming-language/c/inc/ko_kr|C Headers]]
 * J
 * K
 * L
